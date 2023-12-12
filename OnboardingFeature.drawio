@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T11:18:20.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UzcrAgK6KtaNYYWBUEFu" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T13:05:33.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oRdr3H4WMWmMl4TnOuSl" version="22.1.7" type="github">
   <diagram name="Page-1" id="rnuBlkauxHTVzzvOOCVm">
-    <mxGraphModel dx="713" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,15 @@
         </mxCell>
         <mxCell id="VxfM9Zl0OFxtAC7wPxvt-27" value="SignalRImplementation for the checkmarks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="770" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VxfM9Zl0OFxtAC7wPxvt-28" value="If you have existing investments, we have to get permission from you to onboard under a new advisor. And the matching contacts thing. But if you don&#39;t have existing investments the matching contacts thing isn&#39;t mandatory." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="345" y="740" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VxfM9Zl0OFxtAC7wPxvt-29" value="Someone can onboard themselves as an investor, under an advisor. Or even under themselves if they are an advisor." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="840" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VxfM9Zl0OFxtAC7wPxvt-30" value="branches: feature/81432-onbaording-existing-investor in:&lt;br&gt;&lt;ul&gt;&lt;li&gt;Databases(CLOB)&lt;/li&gt;&lt;li&gt;Web&lt;/li&gt;&lt;li&gt;API&lt;/li&gt;&lt;li&gt;AutomatedTesting (corrected a few smoke tests that aren&#39;t expecting a ReviewAndSubmitTab)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="260" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
