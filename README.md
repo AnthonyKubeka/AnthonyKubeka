@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnthonyKubeka
-- 👀 I’m interested in Angular, Firebase, .NET
+- 👋 Hi, I’m Anthony Kubeka
+- 👀 I’m interested in Angular, Firebase, .NET, Azure
 - 🌱 I’m currently learning Firebase
-- 📫 How to reach me: on twitter @AnthonyKubeka, via email: anthonykubeka@gmail.com
+- 📫 How to reach me: on twitter @AnthonyKubeka, via email: anthonykubeka@gmail.com or on anthonykubeka.com
 
 <!---
 AnthonyKubeka/AnthonyKubeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
