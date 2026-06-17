@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anthony Kubeka
-- 👀 I’m interested in Angular, Firebase, .NET, Azure
-- 🌱 I’m currently learning Firebase
+- 👀 I’m interested in AI workflows, distributed systems, .NET, Azure
+- 🌱 I’m currently learning harness engineering
 - 📫 How to reach me: on twitter @AnthonyKubeka, via email: anthonykubeka@gmail.com or on https://anthonykubeka.com
 
 <!---
